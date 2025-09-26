@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#home {
+  background: linear-gradient(to right, #6a82fb, #fc5c7d);
+  color: white;
+  padding: 80px 20px;
+}
+
+#about img {
+  border: 5px solid #6a82fb;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+footer {
+  margin-top: 20px;
+}

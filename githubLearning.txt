@@ -1,0 +1,17 @@
+github download
+
+cmd 
+
+1. git --version
+2. git config --global user.name "github username"
+3. git config --global user.email "github email id"
+
+Github important commands
+
+1. git init -> Initialize a github repository
+2. git clone <repo url> -> Clone a github repository
+3. git status -> Check repository status.
+
+4. git add .  -> Add files in staging area
+5. git commit -m "message"  -> Commit changes
+6. git push <repo url>   -> 
