@@ -15,3 +15,7 @@ Github important commands
 4. git add .  -> Add files in staging area
 5. git commit -m "message"  -> Commit changes
 6. git push <repo url>   -> 
+7. git checkout -b 'new-branch-name'  -> Command to create a new branch
+8. git branch -a -> Command to show all existing branches
+9. git branch -> Command to see current branch
+10. git checkout master -> Command to switch branch
